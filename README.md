@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python,HTML,CSS,javascript,java and hacking
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...I really dont know
-- 📫 How to reach me ...Gmail rishitsrivastavayt@gmail.com
+- 📫 How to reach me ...Gmail 
 
 <!---
 Notproffesionalcoder/Notproffesionalcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
